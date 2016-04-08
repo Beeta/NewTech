@@ -11,4 +11,5 @@
 | scarpy      | 爬虫           | scrapy.org                               |
 |jinq	        | 简化数据库查询 | jinq.org |
 | Jtopo       | HTML5 Canvas的在线画图工具 |	 http://www.jtopo.com/index.html|
+|Verlet-js    | Verlet 集成物理引擎        | https://github.com/subprotocol|
 
