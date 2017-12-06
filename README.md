@@ -15,7 +15,8 @@
 |Python爬虫学习系列教程 | |http://cuiqingcai.com/1052.html|
 |nw.js electron|两个基于js开发桌面应用的工具|
 |AutocJS|为你的文章自动创建目录导航菜单|http://www.yaohaixiao.com/github/autocjs/|
-
+|graphviz|程序画结构图工具 ||
+|tushare|金融股票接口|http://blog.csdn.net/ustbhacker/article/details/8365756|
 
 Book：
 
